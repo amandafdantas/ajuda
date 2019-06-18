@@ -11,4 +11,5 @@
 9- criar repositório no github	> New repository  </br>
 10-copiar os comandos 		> git remote add origin https://github.com/amandafdantas/nome-do-repositorio.git  </br>
 				> git push -u origin master  </br>
+11-daqui em diante		> git push
  
